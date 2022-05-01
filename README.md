@@ -16,11 +16,11 @@
 
 <br>
 
-## 🌟 Members 
-|[![](https://github.com/ulimy.png?size=80)](https://github.com/ulimy)|[![](https://github.com/SuyeonChoi.png?size=80)](https://github.com/SuyeonChoi) |[![](https://github.com/woong7.png?size=80)](https://github.com/woong7) | [![](https://github.com/jaejae-yoo.png?size=80)](https://github.com/jaejae-yoo)| |  
-|:---:|:---:|:---:|:---:|:---:|
+## 🌟 Members
+|[![](https://github.com/ulimy.png?size=80)](https://github.com/ulimy)|[![](https://github.com/SuyeonChoi.png?size=80)](https://github.com/SuyeonChoi) |[![](https://github.com/woong7.png?size=80)](https://github.com/woong7) | [![](https://github.com/jaejae-yoo.png?size=80)](https://github.com/jaejae-yoo)|
+|:---:|:---:|:---:|:---:|
 | 아리 | 페퍼 | 판다 | 그린론|
 
-|[![](https://github.com/Byeongju-Kong.png?size=80)](https://github.com/Byeongju-Kong)|[![](https://github.com/ldk980130.png?size=80)](https://github.com/ldk980130) |[![](https://github.com/sojukang.png?size=80)](https://github.com/sojukang) | [![](https://github.com/sure-why-not.png?size=80)](https://github.com/sure-why-not)| |  
-|:---:|:---:|:---:|:---:|:---:|
+|[![](https://github.com/Byeongju-Kong.png?size=80)](https://github.com/Byeongju-Kong)|[![](https://github.com/ldk980130.png?size=80)](https://github.com/ldk980130) |[![](https://github.com/sojukang.png?size=80)](https://github.com/sojukang) | [![](https://github.com/sure-why-not.png?size=80)](https://github.com/sure-why-not)|  
+|:---:|:---:|:---:|:---:|
 | 크리스 | 더즈 | 소주캉 | 라라|
